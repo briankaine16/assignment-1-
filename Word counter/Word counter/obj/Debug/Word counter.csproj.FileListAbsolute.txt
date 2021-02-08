@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Word counter\Word counter\bin\Debug\Word counter.exe.config
+C:\Users\HP\source\repos\Word counter\Word counter\bin\Debug\Word counter.exe
+C:\Users\HP\source\repos\Word counter\Word counter\bin\Debug\Word counter.pdb
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word counter.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word_counter.Form1.resources
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word_counter.Properties.Resources.resources
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word counter.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word counter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word counter.exe
+C:\Users\HP\source\repos\Word counter\Word counter\obj\Debug\Word counter.pdb

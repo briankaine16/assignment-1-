@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\bin\Debug\pounds to kilogram converter.exe.config
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\bin\Debug\pounds to kilogram converter.exe
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\bin\Debug\pounds to kilogram converter.pdb
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds to kilogram converter.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds_to_kilogram_converter.Form1.resources
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds_to_kilogram_converter.Properties.Resources.resources
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds to kilogram converter.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds to kilogram converter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds to kilogram converter.exe
+C:\Users\HP\source\repos\pounds to kilogram converter\pounds to kilogram converter\obj\Debug\pounds to kilogram converter.pdb

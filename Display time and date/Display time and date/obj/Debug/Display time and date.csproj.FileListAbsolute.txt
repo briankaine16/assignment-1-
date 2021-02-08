@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Display time and date\Display time and date\bin\Debug\Display time and date.exe.config
+C:\Users\HP\source\repos\Display time and date\Display time and date\bin\Debug\Display time and date.exe
+C:\Users\HP\source\repos\Display time and date\Display time and date\bin\Debug\Display time and date.pdb
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display time and date.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display_time_and_date.Form1.resources
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display_time_and_date.Properties.Resources.resources
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display time and date.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display time and date.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display time and date.exe
+C:\Users\HP\source\repos\Display time and date\Display time and date\obj\Debug\Display time and date.pdb
